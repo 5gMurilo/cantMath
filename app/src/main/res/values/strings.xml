@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">cantMath</string>
+    <string name="cantMath">Can\'t Math</string>
+    <string name="bill">Account on Bill</string>
+    <string name="tip">Tip %</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="numberOfPeople">Number of people</string>
+    <string name="calculate">Calculate</string>
+    <string name="per_person">per person</string>
+</resources>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="inputTitleStyle">
+        <item name="android:textColor">?attr/colorPrimaryVariant</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:letterSpacing">0.02</item>
+    </style>
+
+    <style name="homeTitleStyle">
+        <item name="android:textAlignment">center</item>
+        <item name="android:textColor">?attr/colorSecondaryVariant</item>
+        <item name="android:textSize">36sp</item>
+        <item name="android:fontFamily">@font/manjari_bold</item>
+    </style>
+
+    <style name="selectorButtonStyle">
+        <item name="android:layout_height">45dp</item>
+        <item name="android:layout_width">45dp</item>
+        <item name="backgroundColor">?attr/colorOnSecondary</item>
+        <item name="strokeWidth">3dp</item>
+        <item name="strokeColor">?attr/colorPrimary</item>
+    </style>
+
+    <style name="calculateButtonStyle">
+        <item name="android:layout_width">165dp</item>
+        <item name="android:layout_height">45dp</item>
+        <item name="backgroundColor">?attr/colorOnSecondary</item>
+    </style>
+
+    <style name="explainStyle">
+        <item name="android:textColor">?attr/colorPrimaryVariant</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:letterSpacing">0.02</item>
+        <item name="fontFamily">@font/manjari</item>
+    </style>
+
+    <style name="perpersonStyle">
+        <item name="android:textColor">?attr/colorPrimaryVariant</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:letterSpacing">0.02</item>
+        <item name="fontFamily">@font/montserrat</item>
+    </style>
+
+    <style name="moneyStyle">
+        <item name="fontFamily">@font/montserrat_bold</item>
+        <item name="android:letterSpacing">0.02</item>
+        <item name="android:textSize">48sp</item>
+    </style>
+
+
+</resources>

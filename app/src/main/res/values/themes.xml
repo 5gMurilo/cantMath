@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.CantMath" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/hanPurple</item>
+        <item name="colorPrimaryVariant">@color/hanPurple</item>
+        <item name="colorOnPrimary">@color/gWhite</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/violetWeb</item>
+        <item name="colorSecondaryVariant">@color/hanPurple</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorOnPrimary</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
