@@ -6,7 +6,7 @@ Olá, tudo bem? Seja bem vindo (a) ao meu repositório 🙂
 
 O Can't Math é uma calculadora que visa auxiliar o momento de dividir a conta entre pessoas, incluindo já a porcentagem do garçon.
 
-<img src="/home/youngboymuri/Imagens/Captura de tela de 2022-02-04 19-04-52.png" />
+<img src="https://discord.com/channels/768518334231609394/768518334231609397/942597498114015272" />
 
 Essa é uma captura de tela do protótipo construido no figma, onde podemos observar que um dos objetivos foi a prática do inglês na construção de interfaces e também na codificação do App.
 
